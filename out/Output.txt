@@ -1,0 +1,396 @@
+"C:\Program Files\Java\jdk-14.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.2.1\lib\idea_rt.jar=51473:C:\Program Files\JetBrains\IntelliJ IDEA Educational Edition 2020.2.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\ayram\Desktop\Fall 2020 HomeWorks\Data Structure\HomeWorks\Lab5\out\production\Lab5" Lab5
+========================================================================
+Songs in Alphabet order:
+------------------------------------------------------------------------
+1. "1" by 000 Hours (with Justin Bieber)". Weeks on air: 4. Average streams per day: 41371
+2. "2002" by Anne-Marie. Weeks on air: 4. Average streams per day: 37786
+3. "3 Nights" by Dominic Fike. Weeks on air: 4. Average streams per day: 37813
+4. "34+35" by Ariana Grande. Weeks on air: 1. Average streams per day: 154284
+5. "Adore You" by Harry Styles. Weeks on air: 4. Average streams per day: 63392
+6. "Africa" by TOTO. Weeks on air: 4. Average streams per day: 34065
+7. "After Party" by Don Toliver. Weeks on air: 4. Average streams per day: 37251
+8. "Ain't It Different (feat. AJ Trace" by Stormzy & ONEFOUR)". Weeks on air: 8. Average streams per day: 49220
+9. "All Girls Are The Same" by Juice WRLD. Weeks on air: 4. Average streams per day: 38894
+10. "All of Me" by John Legend. Weeks on air: 4. Average streams per day: 37354
+11. "Bab" by I'm Jealous (feat. Doja Cat)". Weeks on air: 4. Average streams per day: 38769
+12. "bad guy" by Billie Eilish. Weeks on air: 4. Average streams per day: 43450
+13. "Be Alright" by Dean Lewis. Weeks on air: 4. Average streams per day: 52327
+14. "Be Kind (with Halsey)" by Marshmello. Weeks on air: 4. Average streams per day: 50965
+15. "Be Like That - feat. Swae Lee & Khalid" by Kane Brown. Weeks on air: 4. Average streams per day: 47123
+16. "Beautiful People (feat. Khalid)" by Ed Sheeran. Weeks on air: 4. Average streams per day: 40916
+17. "Before You Go" by Lewis Capaldi. Weeks on air: 4. Average streams per day: 73896
+18. "Believer" by Imagine Dragons. Weeks on air: 3. Average streams per day: 32726
+19. "Bet You Wanna (feat. Cardi B)" by BLACKPINK. Weeks on air: 2. Average streams per day: 42520
+20. "Blinding Lights" by The Weeknd. Weeks on air: 4. Average streams per day: 106289
+21. "Blueberry Faygo" by Lil Mosey. Weeks on air: 4. Average streams per day: 52373
+22. "Break My Heart" by Dua Lipa. Weeks on air: 4. Average streams per day: 44380
+23. "Breaking Me" by Topic. Weeks on air: 4. Average streams per day: 115332
+24. "Brown Eyed Girl" by Van Morrison. Weeks on air: 2. Average streams per day: 33631
+25. "Bruises" by Lewis Capaldi. Weeks on air: 4. Average streams per day: 39976
+26. "C'MON (feat. Travis Barker)" by Amy Shark. Weeks on air: 1. Average streams per day: 39824
+27. "Catching Feelings (feat. SIX60)" by Drax Project. Weeks on air: 2. Average streams per day: 32372
+28. "Chicago Freestyle (feat. Giveon)" by Drake. Weeks on air: 1. Average streams per day: 32828
+29. "Choir" by Guy Sebastian. Weeks on air: 4. Average streams per day: 38157
+30. "Circles" by Post Malone. Weeks on air: 4. Average streams per day: 68767
+31. "Classic" by MKTO. Weeks on air: 4. Average streams per day: 42365
+32. "Come & Go (with Marshmello)" by Juice WRLD. Weeks on air: 4. Average streams per day: 99670
+33. "Confidence" by Ocean Alley. Weeks on air: 4. Average streams per day: 35348
+34. "Daisy" by Ashnikko. Weeks on air: 4. Average streams per day: 60924
+35. "Dance Monkey" by Tones And I. Weeks on air: 4. Average streams per day: 68944
+36. "Dancing in the Moonlight" by Toploader. Weeks on air: 4. Average streams per day: 33736
+37. "Dancing In The Moonlight (feat. NEIMY)" by Jubël. Weeks on air: 4. Average streams per day: 88389
+38. "Dancing On My Own" by Calum Scott. Weeks on air: 4. Average streams per day: 39183
+39. "Dancing With A Stranger (with Normani)" by Sam Smith. Weeks on air: 1. Average streams per day: 34080
+40. "death bed (coffee for your head)" by Powfu. Weeks on air: 4. Average streams per day: 49925
+41. "Deep End" by Fousheé. Weeks on air: 3. Average streams per day: 40465
+42. "Diamonds" by Sam Smith. Weeks on air: 4. Average streams per day: 58354
+43. "Dior" by Pop Smoke. Weeks on air: 4. Average streams per day: 44371
+44. "Don't Start Now" by Dua Lipa. Weeks on air: 4. Average streams per day: 66097
+45. "Don't Stop Believin'" by Journey. Weeks on air: 4. Average streams per day: 37615
+46. "Dreams - 2004 Remaster" by Fleetwood Mac. Weeks on air: 4. Average streams per day: 143524
+47. "Drops of Jupiter (Tell Me)" by Train. Weeks on air: 1. Average streams per day: 32595
+48. "Dynamite" by BTS. Weeks on air: 4. Average streams per day: 91364
+49. "E-GIRLS ARE RUINING MY LIFE!" by CORPSE. Weeks on air: 4. Average streams per day: 35438
+50. "Eastside (with Halsey & Khalid)" by benny blanco. Weeks on air: 4. Average streams per day: 38033
+51. "Electric Love" by BØRNS. Weeks on air: 4. Average streams per day: 45214
+52. "Energy" by Stace Cadet. Weeks on air: 4. Average streams per day: 39893
+53. "Everybody Rise" by Amy Shark. Weeks on air: 4. Average streams per day: 57153
+54. "everything i wanted" by Billie Eilish. Weeks on air: 3. Average streams per day: 33534
+55. "Everywhere - 2017 Remaster" by Fleetwood Mac. Weeks on air: 4. Average streams per day: 39131
+56. "Fake" by Lauv. Weeks on air: 3. Average streams per day: 36005
+57. "Falling" by Harry Styles. Weeks on air: 8. Average streams per day: 41699
+58. "Flame Trees - 2011 Remastered" by Cold Chisel. Weeks on air: 2. Average streams per day: 32513
+59. "For The Night (feat. Lil Baby & DaBaby)" by Pop Smoke. Weeks on air: 4. Average streams per day: 132010
+60. "Forever After All" by Luke Combs. Weeks on air: 2. Average streams per day: 73429
+61. "forget me too (feat. Halsey)" by Machine Gun Kelly. Weeks on air: 2. Average streams per day: 35832
+62. "FRANCHISE (feat. Young Thug & M.I.A.)" by Travis Scott. Weeks on air: 2. Average streams per day: 49454
+63. "Glitter" by BENEE. Weeks on air: 1. Average streams per day: 32364
+64. "GO (feat. Juice WRLD)" by The Kid LAROI. Weeks on air: 4. Average streams per day: 40127
+65. "Go Crazy" by Chris Brown. Weeks on air: 4. Average streams per day: 82857
+66. "Go Your Own Way - 2004 Remaster" by Fleetwood Mac. Weeks on air: 4. Average streams per day: 47922
+67. "Godzilla (feat. Juice WRLD)" by Eminem. Weeks on air: 4. Average streams per day: 38608
+68. "Golden" by Harry Styles. Weeks on air: 2. Average streams per day: 64129
+69. "goosebumps" by Travis Scott. Weeks on air: 4. Average streams per day: 40544
+70. "Got It On Me" by Pop Smoke. Weeks on air: 4. Average streams per day: 36640
+71. "GREECE (feat. Drake)" by DJ Khaled. Weeks on air: 4. Average streams per day: 38998
+72. "Happier" by Marshmello. Weeks on air: 4. Average streams per day: 34132
+73. "He" by Soul Sister". Weeks on air: 4. Average streams per day: 37620
+74. "Head & Heart (feat. MNEK)" by Joel Corry. Weeks on air: 4. Average streams per day: 192213
+75. "Heart Of Glass (Live from the iHeart Festival)" by Miley Cyrus. Weeks on air: 3. Average streams per day: 38443
+76. "Heat Waves" by Glass Animals. Weeks on air: 4. Average streams per day: 36136
+77. "Heather" by Conan Gray. Weeks on air: 4. Average streams per day: 83052
+78. "Hello (feat. A Boogie Wit da Hoodie)" by Pop Smoke. Weeks on air: 4. Average streams per day: 37422
+79. "Higher Love" by Kygo. Weeks on air: 4. Average streams per day: 36430
+80. "HIGHEST IN THE ROOM" by Travis Scott. Weeks on air: 4. Average streams per day: 37560
+81. "Hold Me While You Wait" by Lewis Capaldi. Weeks on air: 2. Average streams per day: 33432
+82. "Holy (feat. Chance The Rapper)" by Justin Bieber. Weeks on air: 4. Average streams per day: 176306
+83. "hot girl bummer" by blackbear. Weeks on air: 4. Average streams per day: 39316
+84. "How You Like That" by BLACKPINK. Weeks on air: 1. Average streams per day: 32691
+85. "I Don't Care (with Justin Bieber)" by Ed Sheeran. Weeks on air: 4. Average streams per day: 44404
+86. "I Fall Apart" by Post Malone. Weeks on air: 4. Average streams per day: 35469
+87. "I Gotta Feeling" by Black Eyed Peas. Weeks on air: 1. Average streams per day: 33320
+88. "I Like Me Better" by Lauv. Weeks on air: 4. Average streams per day: 33821
+89. "I Wanna Dance with Somebody (Who Loves Me)" by Whitney Houston. Weeks on air: 4. Average streams per day: 35469
+90. "I'm Good?" by Hilltop Hoods. Weeks on air: 4. Average streams per day: 44392
+91. "I'm Yours" by Jason Mraz. Weeks on air: 4. Average streams per day: 33207
+92. "Ice Cream (with Selena Gomez)" by BLACKPINK. Weeks on air: 4. Average streams per day: 44408
+93. "If the World Was Ending - feat. Julia Michaels" by JP Saxe. Weeks on air: 4. Average streams per day: 47887
+94. "ily (i love you baby) (feat. Emilee)" by Surf Mesa. Weeks on air: 4. Average streams per day: 35996
+95. "Intentions (feat. Quavo)" by Justin Bieber. Weeks on air: 4. Average streams per day: 51388
+96. "Jocelyn Flores" by XXXTENTACION. Weeks on air: 4. Average streams per day: 38411
+97. "July" by Noah Cyrus. Weeks on air: 4. Average streams per day: 50412
+98. "just like magic" by Ariana Grande. Weeks on air: 1. Average streams per day: 74918
+99. "Khe Sanh - 2011 Remastered" by Cold Chisel. Weeks on air: 4. Average streams per day: 38102
+100. "Kings & Queens" by Ava Max. Weeks on air: 4. Average streams per day: 64531
+101. "Know Your Worth" by Khalid. Weeks on air: 4. Average streams per day: 33692
+102. "Landslide" by Fleetwood Mac. Weeks on air: 2. Average streams per day: 33290
+103. "Lasting Lover" by Sigala. Weeks on air: 3. Average streams per day: 37018
+104. "Laugh Now Cry Later (feat. Lil Durk)" by Drake. Weeks on air: 4. Average streams per day: 110468
+105. "Lemonade (feat. Gunn" by Don Toliver & NAV)". Weeks on air: 4. Average streams per day: 174249
+106. "Let Her Go" by Passenger. Weeks on air: 4. Average streams per day: 36573
+107. "Let You Down" by NF. Weeks on air: 4. Average streams per day: 33406
+108. "Levitating (feat. DaBaby)" by Dua Lipa. Weeks on air: 4. Average streams per day: 95695
+109. "Life Is Good (feat. Drake)" by Future. Weeks on air: 4. Average streams per day: 35761
+110. "Live In Life" by The Rubens. Weeks on air: 4. Average streams per day: 51792
+111. "Lonely (with benny blanco)" by Justin Bieber. Weeks on air: 3. Average streams per day: 121494
+112. "Look into My Eyes" by Brando. Weeks on air: 4. Average streams per day: 54942
+113. "Lose Control" by MEDUZA. Weeks on air: 4. Average streams per day: 37645
+114. "Lose Somebody" by Kygo. Weeks on air: 4. Average streams per day: 57361
+115. "love language" by Ariana Grande. Weeks on air: 1. Average streams per day: 49912
+116. "Love On Display" by Guy Sebastian. Weeks on air: 3. Average streams per day: 41639
+117. "Love Songs" by Daryl Braithwaite. Weeks on air: 4. Average streams per day: 42477
+118. "lovely (with Khalid)" by Billie Eilish. Weeks on air: 4. Average streams per day: 36955
+119. "Lovesick Girls" by BLACKPINK. Weeks on air: 3. Average streams per day: 43614
+120. "Lucid Dreams" by Juice WRLD. Weeks on air: 4. Average streams per day: 54140
+121. "Mad at Disney" by salem ilese. Weeks on air: 4. Average streams per day: 56931
+122. "Maniac" by Conan Gray. Weeks on air: 4. Average streams per day: 35496
+123. "Martin & Gina" by Polo G. Weeks on air: 4. Average streams per day: 40356
+124. "Meant to Be (feat. Florida Georgia Line)" by Bebe Rexha. Weeks on air: 3. Average streams per day: 33356
+125. "Memories" by Maroon 5. Weeks on air: 4. Average streams per day: 53749
+126. "Midnight Sky" by Miley Cyrus. Weeks on air: 4. Average streams per day: 95430
+127. "Money Trees" by Kendrick Lamar. Weeks on air: 4. Average streams per day: 39798
+128. "Mood (feat. iann dior)" by 24kGoldn. Weeks on air: 4. Average streams per day: 243008
+129. "Mood Swings (feat. Lil Tjay)" by Pop Smoke. Weeks on air: 4. Average streams per day: 88827
+130. "MORE" by K/DA. Weeks on air: 1. Average streams per day: 36357
+131. "motive (with Doja Cat)" by Ariana Grande. Weeks on air: 1. Average streams per day: 112265
+132. "Mr. Brightside" by The Killers. Weeks on air: 4. Average streams per day: 60523
+133. "Mr. Right Now (feat. Drake)" by 21 Savage. Weeks on air: 3. Average streams per day: 54237
+134. "My City" by ONEFOUR. Weeks on air: 1. Average streams per day: 95536
+135. "my ex's best friend (with blackbear)" by Machine Gun Kelly. Weeks on air: 4. Average streams per day: 92824
+136. "my hair" by Ariana Grande. Weeks on air: 1. Average streams per day: 61203
+137. "My Happiness" by Powderfinger. Weeks on air: 3. Average streams per day: 34172
+138. "nasty" by Ariana Grande. Weeks on air: 1. Average streams per day: 63691
+139. "Never Seen the Rain" by Tones And I. Weeks on air: 4. Average streams per day: 46528
+140. "No Guidance (feat. Drake)" by Chris Brown. Weeks on air: 4. Average streams per day: 39110
+141. "No Role Modelz" by J. Cole. Weeks on air: 4. Average streams per day: 35345
+142. "obvious" by Ariana Grande. Weeks on air: 1. Average streams per day: 53211
+143. "off the table (with The Weeknd)" by Ariana Grande. Weeks on air: 1. Average streams per day: 85149
+144. "OK Not To Be OK" by Marshmello. Weeks on air: 4. Average streams per day: 41797
+145. "One Too Many" by Keith Urban. Weeks on air: 4. Average streams per day: 75250
+146. "Outta Time (feat. Drake)" by Bryson Tiller. Weeks on air: 1. Average streams per day: 33200
+147. "Papi Chulo" by Octavian. Weeks on air: 3. Average streams per day: 47260
+148. "Party Girl" by StaySolidRocky. Weeks on air: 4. Average streams per day: 40922
+149. "Party In The U.S.A." by Miley Cyrus. Weeks on air: 4. Average streams per day: 42135
+150. "Perfect" by Ed Sheeran. Weeks on air: 4. Average streams per day: 36475
+151. "POPSTAR (feat. Drake)" by DJ Khaled. Weeks on air: 4. Average streams per day: 70837
+152. "positions" by Ariana Grande. Weeks on air: 2. Average streams per day: 251767
+153. "Post Malone (feat. RANI)" by Sam Feldt. Weeks on air: 4. Average streams per day: 36369
+154. "pov" by Ariana Grande. Weeks on air: 1. Average streams per day: 79025
+155. "Promiscuous" by Nelly Furtado. Weeks on air: 4. Average streams per day: 40877
+156. "Pump It Up" by Endor. Weeks on air: 4. Average streams per day: 43319
+157. "Pumped Up Kicks" by Foster The People. Weeks on air: 4. Average streams per day: 36244
+158. "Put Your Records On" by Ritt Momney. Weeks on air: 4. Average streams per day: 148327
+159. "Rain On Me (with Ariana Grande)" by Lady Gaga. Weeks on air: 4. Average streams per day: 76264
+160. "Really Love (feat. Craig David & Digital Farm Animals)" by KSI. Weeks on air: 1. Average streams per day: 33570
+161. "Ride It" by Regard. Weeks on air: 4. Average streams per day: 43971
+162. "Riptide" by Vance Joy. Weeks on air: 4. Average streams per day: 42925
+163. "Robbery" by Juice WRLD. Weeks on air: 6. Average streams per day: 43541
+164. "ROCKSTAR (feat. Roddy Ricch)" by DaBaby. Weeks on air: 4. Average streams per day: 111993
+165. "Roses - Imanbek Remix" by SAINt JHN. Weeks on air: 4. Average streams per day: 103821
+166. "ROXANNE" by Arizona Zervas. Weeks on air: 4. Average streams per day: 38013
+167. "Run to Paradise" by Choirboys. Weeks on air: 4. Average streams per day: 35865
+168. "Runnin" by 21 Savage. Weeks on air: 1. Average streams per day: 38993
+169. "Rushing Back" by Flume. Weeks on air: 4. Average streams per day: 48283
+170. "safety net (feat. Ty Dolla $ign)" by Ariana Grande. Weeks on air: 1. Average streams per day: 72900
+171. "Savage Love (Laxed - Siren Beat)" by Jawsh 685. Weeks on air: 4. Average streams per day: 118506
+172. "Say You Won't Let Go" by James Arthur. Weeks on air: 4. Average streams per day: 54400
+173. "Secrets" by Regard. Weeks on air: 4. Average streams per day: 64483
+174. "Señorita" by Shawn Mendes. Weeks on air: 4. Average streams per day: 42460
+175. "Shallow" by Lady Gaga. Weeks on air: 4. Average streams per day: 52722
+176. "Shape of You" by Ed Sheeran. Weeks on air: 4. Average streams per day: 33514
+177. "Shotgun" by George Ezra. Weeks on air: 4. Average streams per day: 34285
+178. "shut up" by Ariana Grande. Weeks on air: 1. Average streams per day: 69804
+179. "Shut Up and Dance" by WALK THE MOON. Weeks on air: 3. Average streams per day: 32833
+180. "SICKO MODE" by Travis Scott. Weeks on air: 4. Average streams per day: 38856
+181. "six thirty" by Ariana Grande. Weeks on air: 1. Average streams per day: 58749
+182. "Smile (with The Weeknd)" by Juice WRLD. Weeks on air: 4. Average streams per day: 47530
+183. "SO DONE" by The Kid LAROI. Weeks on air: 2. Average streams per day: 127197
+184. "Sofia" by Clairo. Weeks on air: 4. Average streams per day: 50080
+185. "Some Say - Felix Jaehn Remix" by Nea. Weeks on air: 4. Average streams per day: 88251
+186. "Someone You Loved" by Lewis Capaldi. Weeks on air: 4. Average streams per day: 85743
+187. "Spicy (feat. Post Malone)" by Ty Dolla $ign. Weeks on air: 2. Average streams per day: 48396
+188. "Stand For" by Chillinit. Weeks on air: 3. Average streams per day: 43455
+189. "Standing With You" by Guy Sebastian. Weeks on air: 3. Average streams per day: 38428
+190. "Still Don't Know My Name" by Labrinth. Weeks on air: 3. Average streams per day: 38641
+191. "Stuck with U (with Justin Bieber)" by Ariana Grande. Weeks on air: 4. Average streams per day: 57560
+192. "Stunnin' (feat. Harm Franklin)" by Curtis Waters. Weeks on air: 2. Average streams per day: 33566
+193. "Summer Of '69" by Bryan Adams. Weeks on air: 4. Average streams per day: 42054
+194. "Sunday Best" by Surfaces. Weeks on air: 4. Average streams per day: 40979
+195. "Sunflower - Spider-Man: Into the Spider-Verse" by Post Malone. Weeks on air: 4. Average streams per day: 49826
+196. "Supalonely" by BENEE. Weeks on air: 2. Average streams per day: 34250
+197. "Sweater Weather" by The Neighbourhood. Weeks on air: 2. Average streams per day: 34026
+198. "Take Me To Church" by Hozier. Weeks on air: 3. Average streams per day: 33220
+199. "Take You Dancing" by Jason Derulo. Weeks on air: 4. Average streams per day: 126813
+200. "The Box" by Roddy Ricch. Weeks on air: 4. Average streams per day: 40352
+201. "The Chain - 2004 Remaster" by Fleetwood Mac. Weeks on air: 4. Average streams per day: 39534
+202. "The Horses" by Daryl Braithwaite. Weeks on air: 3. Average streams per day: 34065
+203. "The Less I Know The Better" by Tame Impala. Weeks on air: 4. Average streams per day: 41786
+204. "The Woo (feat. 50 Cent & Roddy Ricch)" by Pop Smoke. Weeks on air: 4. Average streams per day: 47882
+205. "Thinking out Loud" by Ed Sheeran. Weeks on air: 4. Average streams per day: 36983
+206. "This City" by Sam Fischer. Weeks on air: 4. Average streams per day: 74132
+207. "Tick Tock (feat. 24kGoldn)" by Clean Bandit. Weeks on air: 4. Average streams per day: 48267
+208. "Together" by Sia. Weeks on air: 4. Average streams per day: 67718
+209. "Tongue Tied" by Grouplove. Weeks on air: 1. Average streams per day: 32436
+210. "Toosie Slide" by Drake. Weeks on air: 4. Average streams per day: 37033
+211. "Train Wreck" by James Arthur. Weeks on air: 4. Average streams per day: 58728
+212. "Tyler Herro" by Jack Harlow. Weeks on air: 2. Average streams per day: 43066
+213. "Wake Me Up" by Avicii. Weeks on air: 4. Average streams per day: 34421
+214. "WAP (feat. Megan Thee Stallion)" by Cardi B. Weeks on air: 4. Average streams per day: 189134
+215. "Watermelon Sugar" by Harry Styles. Weeks on air: 4. Average streams per day: 129794
+216. "west side" by Ariana Grande. Weeks on air: 1. Average streams per day: 49514
+217. "What A Man Gotta Do" by Jonas Brothers. Weeks on air: 4. Average streams per day: 41220
+218. "What You Know Bout Love" by Pop Smoke. Weeks on air: 4. Average streams per day: 188357
+219. "WHATS POPPIN" by Jack Harlow. Weeks on air: 4. Average streams per day: 36847
+220. "WHATS POPPIN (feat. DaBab" by Tory Lanez & Lil Wayne) - Remix". Weeks on air: 4. Average streams per day: 47745
+221. "Whoopty" by CJ. Weeks on air: 2. Average streams per day: 49995
+222. "Wishing Well" by Juice WRLD. Weeks on air: 4. Average streams per day: 72904
+223. "Wolves (feat. Post Malone)" by Big Sean. Weeks on air: 4. Average streams per day: 39360
+224. "Wonder" by Shawn Mendes. Weeks on air: 4. Average streams per day: 115350
+225. "Wonderwall - Remastered" by Oasis. Weeks on air: 4. Average streams per day: 37382
+226. "Yeah! (feat. Lil Jon & Ludacris)" by Usher. Weeks on air: 1. Average streams per day: 34868
+227. "you broke me first" by Tate McRae. Weeks on air: 4. Average streams per day: 144319
+228. "You Got It" by Vedo. Weeks on air: 4. Average streams per day: 41249
+229. "You Shook Me All Night Long" by AC/DC. Weeks on air: 3. Average streams per day: 33696
+230. "You should be sad" by Halsey. Weeks on air: 4. Average streams per day: 36587
+231. "Youngblood" by 5 Seconds of Summer. Weeks on air: 4. Average streams per day: 46665
+232. "Your Man" by Joji. Weeks on air: 3. Average streams per day: 44221
+========================================================================
+Artists in Alphabet order:
+------------------------------------------------------------------------
+1. 000 Hours (with Justin Bieber)". Average streams per day: 41371
+2. 21 Savage. Average streams per day: 50426
+3. 24kGoldn. Average streams per day: 243008
+4. 5 Seconds of Summer. Average streams per day: 46665
+5. AC/DC. Average streams per day: 33696
+6. Amy Shark. Average streams per day: 53687
+7. Anne-Marie. Average streams per day: 37786
+8. Ariana Grande. Average streams per day: 90442
+9. Arizona Zervas. Average streams per day: 38013
+10. Ashnikko. Average streams per day: 60924
+11. Ava Max. Average streams per day: 64531
+12. Avicii. Average streams per day: 34421
+13. Bebe Rexha. Average streams per day: 33356
+14. BENEE. Average streams per day: 33621
+15. benny blanco. Average streams per day: 38033
+16. Big Sean. Average streams per day: 39360
+17. Billie Eilish. Average streams per day: 38384
+18. Black Eyed Peas. Average streams per day: 33320
+19. blackbear. Average streams per day: 39316
+20. BLACKPINK. Average streams per day: 42620
+21. Brando. Average streams per day: 54942
+22. Bryan Adams. Average streams per day: 42054
+23. Bryson Tiller. Average streams per day: 33200
+24. BTS. Average streams per day: 91364
+25. BØRNS. Average streams per day: 45214
+26. Calum Scott. Average streams per day: 39183
+27. Cardi B. Average streams per day: 189134
+28. Chillinit. Average streams per day: 43455
+29. Choirboys. Average streams per day: 35865
+30. Chris Brown. Average streams per day: 60984
+31. CJ. Average streams per day: 49995
+32. Clairo. Average streams per day: 50080
+33. Clean Bandit. Average streams per day: 48267
+34. Cold Chisel. Average streams per day: 36239
+35. Conan Gray. Average streams per day: 59274
+36. CORPSE. Average streams per day: 35438
+37. Curtis Waters. Average streams per day: 33566
+38. DaBaby. Average streams per day: 111993
+39. Daryl Braithwaite. Average streams per day: 38872
+40. Dean Lewis. Average streams per day: 52327
+41. DJ Khaled. Average streams per day: 54917
+42. Dominic Fike. Average streams per day: 37813
+43. Don Toliver. Average streams per day: 37251
+44. Don Toliver & NAV)". Average streams per day: 174249
+45. Drake. Average streams per day: 69203
+46. Drax Project. Average streams per day: 32372
+47. Dua Lipa. Average streams per day: 68724
+48. Ed Sheeran. Average streams per day: 38458
+49. Eminem. Average streams per day: 38608
+50. Endor. Average streams per day: 43319
+51. Fleetwood Mac. Average streams per day: 63724
+52. Flume. Average streams per day: 48283
+53. Foster The People. Average streams per day: 36244
+54. Fousheé. Average streams per day: 40465
+55. Future. Average streams per day: 35761
+56. George Ezra. Average streams per day: 34285
+57. Glass Animals. Average streams per day: 36136
+58. Grouplove. Average streams per day: 32436
+59. Guy Sebastian. Average streams per day: 39283
+60. Halsey. Average streams per day: 36587
+61. Harry Styles. Average streams per day: 78131
+62. Headie One. Average streams per day: 45344
+63. Hilltop Hoods. Average streams per day: 44392
+64. Hozier. Average streams per day: 33220
+65. I'm Jealous (feat. Doja Cat)". Average streams per day: 38769
+66. Imagine Dragons. Average streams per day: 32726
+67. J. Cole. Average streams per day: 35345
+68. Jack Harlow. Average streams per day: 38920
+69. James Arthur. Average streams per day: 56564
+70. Jason Derulo. Average streams per day: 126813
+71. Jason Mraz. Average streams per day: 33207
+72. Jawsh 685. Average streams per day: 118506
+73. Joel Corry. Average streams per day: 192213
+74. John Legend. Average streams per day: 37354
+75. Joji. Average streams per day: 44221
+76. Jonas Brothers. Average streams per day: 41220
+77. Journey. Average streams per day: 37615
+78. JP Saxe. Average streams per day: 47887
+79. Jubël. Average streams per day: 88389
+80. Juice WRLD. Average streams per day: 60330
+81. Justin Bieber. Average streams per day: 115932
+82. K/DA. Average streams per day: 36357
+83. Kane Brown. Average streams per day: 47123
+84. Keith Urban. Average streams per day: 75250
+85. Kendrick Lamar. Average streams per day: 39798
+86. Khalid. Average streams per day: 33692
+87. KSI. Average streams per day: 33570
+88. Kygo. Average streams per day: 46895
+89. Labrinth. Average streams per day: 38641
+90. Lady Gaga. Average streams per day: 64493
+91. Lauv. Average streams per day: 34757
+92. Lewis Capaldi. Average streams per day: 61809
+93. Lil Mosey. Average streams per day: 52373
+94. Lime Cordiale. Average streams per day: 32936
+95. Luke Combs. Average streams per day: 73429
+96. Machine Gun Kelly. Average streams per day: 73827
+97. Maroon 5. Average streams per day: 53749
+98. Marshmello. Average streams per day: 42298
+99. MEDUZA. Average streams per day: 37645
+100. Miley Cyrus. Average streams per day: 60508
+101. MKTO. Average streams per day: 42365
+102. Nea. Average streams per day: 88251
+103. Nelly Furtado. Average streams per day: 40877
+104. NF. Average streams per day: 33406
+105. Noah Cyrus. Average streams per day: 50412
+106. Oasis. Average streams per day: 37382
+107. Ocean Alley. Average streams per day: 35348
+108. Octavian. Average streams per day: 47260
+109. ONEFOUR. Average streams per day: 95536
+110. Passenger. Average streams per day: 36573
+111. Polo G. Average streams per day: 40356
+112. Pop Smoke. Average streams per day: 82216
+113. Post Malone. Average streams per day: 51354
+114. Powderfinger. Average streams per day: 34172
+115. Powfu. Average streams per day: 49925
+116. Regard. Average streams per day: 54227
+117. Ritt Momney. Average streams per day: 148327
+118. Roddy Ricch. Average streams per day: 40352
+119. SAINt JHN. Average streams per day: 103821
+120. salem ilese. Average streams per day: 56931
+121. Sam Feldt. Average streams per day: 36369
+122. Sam Fischer. Average streams per day: 74132
+123. Sam Smith. Average streams per day: 53499
+124. Shawn Mendes. Average streams per day: 78905
+125. Sia. Average streams per day: 67718
+126. Sigala. Average streams per day: 37018
+127. Soul Sister". Average streams per day: 37620
+128. Stace Cadet. Average streams per day: 39893
+129. StaySolidRocky. Average streams per day: 40922
+130. Stormzy & ONEFOUR)". Average streams per day: 53097
+131. Surf Mesa. Average streams per day: 35996
+132. Surfaces. Average streams per day: 40979
+133. Tame Impala. Average streams per day: 41786
+134. Tate McRae. Average streams per day: 144319
+135. The Kid LAROI. Average streams per day: 69150
+136. The Killers. Average streams per day: 60523
+137. The Neighbourhood. Average streams per day: 34026
+138. The Rubens. Average streams per day: 51792
+139. The Weeknd. Average streams per day: 106289
+140. Tones And I. Average streams per day: 57736
+141. Topic. Average streams per day: 115332
+142. Toploader. Average streams per day: 33736
+143. Tory Lanez & Lil Wayne) - Remix". Average streams per day: 47745
+144. TOTO. Average streams per day: 34065
+145. Train. Average streams per day: 32595
+146. Travis Scott. Average streams per day: 40482
+147. Trevor Daniel. Average streams per day: 35189
+148. Ty Dolla $ign. Average streams per day: 48396
+149. Usher. Average streams per day: 34868
+150. Van Morrison. Average streams per day: 33631
+151. Vance Joy. Average streams per day: 42925
+152. Vedo. Average streams per day: 41249
+153. WALK THE MOON. Average streams per day: 32833
+154. Whitney Houston. Average streams per day: 35469
+155. XXXTENTACION. Average streams per day: 38411
+
+Process finished with exit code 0
