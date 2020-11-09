@@ -192,8 +192,7 @@ class Artist{
     }
     // -------------------------------------------------------------
     public String displayArtist() {
-        return artistName + ". Average streams per day: " + calcAveragePerDay() +
-                ". Weeks on Air: " + calcWeeks();
+        return artistName + ". Average streams per day: " + calcAveragePerDay();
     }
 }
 /////////////////////////////////////////////////
